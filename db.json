@@ -1,0 +1,39 @@
+{
+  "emp": [
+    {
+      "id": "2",
+      "name": "abin",
+      "fromdate": "2024-06-14T18:30:00.000Z",
+      "todate": "2024-06-26T18:30:00.000Z",
+      "reason": "sick"
+    },
+    {
+      "id": "8",
+      "name": "ramu",
+      "fromdate": "2024-06-07T18:30:00.000Z",
+      "todate": "2024-06-10T18:30:00.000Z",
+      "reason": "outing"
+    },
+    {
+      "id": "8",
+      "name": "loki",
+      "fromdate": "2024-06-12T18:30:00.000Z",
+      "todate": "2024-06-26T18:30:00.000Z",
+      "reason": "trip with GF"
+    },
+    {
+      "id": "7",
+      "name": "usha",
+      "fromdate": "2024-06-06T18:30:00.000Z",
+      "todate": "2024-06-12T18:30:00.000Z",
+      "reason": "sick"
+    },
+    {
+      "id": "10",
+      "name": "sulu",
+      "fromdate": "2024-06-13T18:30:00.000Z",
+      "todate": "2024-06-23T18:30:00.000Z",
+      "reason": "enjoy party"
+    }
+  ]
+}
